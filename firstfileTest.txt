@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-my name is Abdelrahman Salah
-
-this is new line.
-this is second new line
-=======
-my name is Abdelrahman Salah
->>>>>>> 67502c4bfd1fac2ba71ea7909bdef9ff0221b79b
